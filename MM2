@@ -34,8 +34,8 @@ end
 local ArrayField = loadstring(game:HttpGet("https://raw.githubusercontent.com/UI-Interface/ArrayField/main/Source.lua"))()
 local Window = ArrayField:CreateWindow({
     Name = "MM2 - Unbox",
-    LoadingTitle = "Made by whqtt",
-    LoadingSubtitle = "Made by whqtt",
+    LoadingTitle = "Made by Gothboiclique",
+    LoadingSubtitle = "Made by Gothboiclique",
     KeySettings = {}
 })
 
